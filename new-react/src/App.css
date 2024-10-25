@@ -1,0 +1,33 @@
+
+
+.App-header {
+  background-color: #5a1818;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(100, 29, 29);
+}
+
+#quote-box {
+  background-color: beige;
+  width: 600px;
+  height: 400px;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  align-items: center;
+  
+  
+}
+
+button {
+  margin-bottom: 10px
+}
+
+#tweet-quote {
+  margin-bottom: 10px;
+  font-size: small;
+}
